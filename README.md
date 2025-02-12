@@ -14,7 +14,7 @@ a revolutionary stopwatch and snake game combo that blends precision and enterta
 
 1. clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stonake.git
+   git clone https://github.com/hieu666/stonake.git
    ```
 2. navigate to the project directory:
    ```bash
